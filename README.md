@@ -6,4 +6,4 @@ This work introduces first comprehensive Amorphous Metal-Organic Framework datab
 
 ## Citation
 
-If you want to use our AMOF database in your research, please cite:
+If you want to use our AMOF database in your research, please cite: https://doi.org/10.1021/acsami.5c14534
